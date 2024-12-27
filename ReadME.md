@@ -59,7 +59,7 @@ Used the retrieved context as input for **LLaMA 3.2** LLM to generate the final 
   - Query embedding generation using BERT.
   - Cosine similarity calculation for node matching.
   - Neo4j interaction to fetch node data and relationships.
-  - Integration with LLaMA 3.2 for generating responses.
+  - Integration with LLaMA 3.3 for generating responses.
 
 ### Frontend
 - **Framework**: React
@@ -69,7 +69,7 @@ Used the retrieved context as input for **LLaMA 3.2** LLM to generate the final 
   - Dynamic interaction with the backend to fetch results.
 
 ## Prompt Engineering Techniques
-- Designed prompts for LLaMA 3.2 that effectively utilized the retrieved context.
+- Designed prompts for LLaMA 3.3 that effectively utilized the retrieved context.
 - Included specific instructions to ensure accurate and context-aware responses.
 - Tested and refined prompts iteratively to handle diverse query types.
 
@@ -91,7 +91,7 @@ Used the retrieved context as input for **LLaMA 3.2** LLM to generate the final 
 
 - **Data Storage**: Neo4j
 - **Embedding Model**: BERT ("bert-base-uncased")
-- **LLM**: LLaMA 3.2
+- **LLM**: LLaMA 3.3
 - **Backend**: Flask
 - **Frontend**: React
 - **Programming Languages**: Python (backend), JavaScript (frontend)
