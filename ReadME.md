@@ -2,7 +2,7 @@
 
 ## Dataset Description and Source
 
-The dataset used for this project was sourced from Kaggle: Healthcare Dataset. It contains information about patients, their admissions, and the healthcare services provided. Below is a brief description of the dataset's columns:
+The dataset used for this project was sourced from Kaggle: Healthcare Dataset https://www.kaggle.com/datasets/prasad22/healthcare-dataset. It contains information about patients, their admissions, and the healthcare services provided. Below is a brief description of the dataset's columns:
 
 - **Name**: Name of the patient.
 - **Age**: Age of the patient at admission.
