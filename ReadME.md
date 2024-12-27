@@ -49,7 +49,7 @@ Calculated cosine similarity between query embeddings and node embeddings to fin
 Retrieved information about the identified node and its related nodes to build context.
 
 ### Response Generation
-Used the retrieved context as input for **LLaMA 3.2** LLM to generate the final response.
+Used the retrieved context as input for **LLaMA 3.3** LLM to generate the final response.
 
 ## Backend and Frontend Development
 
