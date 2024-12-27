@@ -111,3 +111,42 @@ Used the retrieved context as input for **LLaMA 3.3** LLM to generate the final 
 ### Querying
 1. Enter a query in the frontend interface.
 2. View the generated response and related context.
+
+
+# Generative AI Full-Stack Developer Project
+
+This project integrates a React frontend with a Flask backend, leveraging Neo4j for graph database management and Hugging Face's BERT model for NLP tasks. It also includes a Groq framework for optimization and uses cosine similarity for comparing text embeddings.
+
+## Project Setup
+
+### Prerequisites
+- Node.js (for React)
+- Python 3.x (for Flask)
+- Neo4j (for graph database)
+- Groq framework
+- Hugging Face Transformers library
+
+### Frontend Setup (React)
+1. Install required packages for the React frontend:
+    ```bash
+    npm install axios
+    ```
+
+2. Run the React frontend:
+    ```bash
+    npm run start
+    ```
+
+### Backend Setup (Flask)
+1. Install required Python packages:
+    ```bash
+    pip install neo4j transformers torch numpy flask flask-cors sklearn groq
+    ```
+
+2. Run the Flask backend:
+    ```bash
+    python back_end.py
+    ```
+
+
+
