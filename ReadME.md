@@ -113,10 +113,6 @@ Used the retrieved context as input for **LLaMA 3.3** LLM to generate the final 
 2. View the generated response and related context.
 
 
-# Generative AI Full-Stack Developer Project
-
-This project integrates a React frontend with a Flask backend, leveraging Neo4j for graph database management and Hugging Face's BERT model for NLP tasks. It also includes a Groq framework for optimization and uses cosine similarity for comparing text embeddings.
-
 ## Project Setup
 
 ### Prerequisites
